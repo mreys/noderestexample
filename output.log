@@ -1,0 +1,5 @@
+
+> rest@1.0.0 start /home/sag/rest
+> node app.js
+
+Server listening on port 3002
